@@ -1,0 +1,39 @@
+# Kaer Morhen — a moody, dark theme inspired by The Witcher.
+# Wet keep stone, parchment, cat-eye gold, and the colours of the Signs.
+mode = "dark"
+
+accent = "#d4a347"            # cat-eye gold
+selection = "#33373c"
+muted = "#4f555c"
+
+background = "#17191c"        # keep stone at night
+dark_background = "#121417"
+darker_background = "#0c0d0f"
+lighter_background = "#24272b"
+
+foreground = "#cfc8b8"        # bone & parchment
+dark_foreground = "#7d7a72"
+light_foreground = "#b8b1a1"
+bright_foreground = "#e8e2d4"
+
+red = "#a8423a"               # blood on steel
+yellow = "#d4a347"            # Quen
+orange = "#c46a32"            # Igni
+green = "#7c8a5a"             # Velen moss
+cyan = "#6f9a94"              # Axii
+blue = "#6c88a3"              # Aard / steel
+magenta = "#8c6f9c"           # Yrden
+brown = "#6b4f36"             # worn leather
+
+bright_red = "#c95a4f"
+bright_yellow = "#e8c06a"
+bright_green = "#9aab72"
+bright_cyan = "#8bb5ae"
+bright_blue = "#8aa5bf"
+bright_magenta = "#a98bb8"
+
+# Gold-to-silver window borders: the two swords.
+hyprland_active_border = "rgba(d4a347ee) rgba(9aa3abee) 45deg"
+hyprland_inactive_border = "rgba(33373caa)"
+active_border_color = "#d4a347"
+active_tab_background = "#6b4f36"
